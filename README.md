@@ -1,6 +1,6 @@
 ### Olá! Eu sou Eduardo Rosa 👋
 
-Estudo programação e desenvolvimento de software. gosto de criar soluções inovadoras e enfrentar desafios técnicos. Meu foco principal está no desenvolvimento Fullstack, utilizando tecnologias como HTML5, CSS3 e JavaScript, mas também estou sempre explorando novas ferramentas e linguagens.
+Estudo programação e desenvolvimento de software. Gosto de criar soluções inovadoras e enfrentar desafios técnicos. Meu foco principal está no desenvolvimento Fullstack, utilizando tecnologias como HTML5, CSS3 e JavaScript, mas também estou sempre explorando novas ferramentas e linguagens.
 
 
 ## Tecnologias que eu uso no meu dia
