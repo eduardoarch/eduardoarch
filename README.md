@@ -8,25 +8,26 @@
 
 ## 🛠️ Tecnologias que eu uso
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"><br>
-  <img align="center" alt="Edu-Js" height="30" width="40"
+## 🛠️ Tecnologias que eu uso
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img alt="JavaScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40"
+  <img alt="HTML" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40"
+  <img alt="CSS" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Node" height="30" width="40"
+  <img alt="Node.js" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Edu-MongoDB" height="30" width="40"
+  <img alt="MongoDB" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Edu-Postgres" height="30" width="40"
+  <img alt="PostgreSQL" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Edu-Git" height="30" width="40"
+  <img alt="Git" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Edu-Linux" height="30" width="40"
+  <img alt="Linux" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
 ---
 
 ## 🔧 Ferramentas
