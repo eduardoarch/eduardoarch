@@ -5,9 +5,6 @@
 📚 Buscando minha primeira oportunidade na área de tecnologia.  
 
 ---
-
-## 🛠️ Tecnologias que eu uso
-
 ## 🛠️ Tecnologias que eu uso
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -28,6 +25,7 @@
   <img alt="Linux" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+
 ---
 
 ## 🔧 Ferramentas
