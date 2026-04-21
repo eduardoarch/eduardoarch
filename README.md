@@ -37,6 +37,6 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia** 🚀
 
 ---
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&theme=dark)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoarch&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarch&layout=compact&theme=tokyonight)
